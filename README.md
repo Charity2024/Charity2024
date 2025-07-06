@@ -2,6 +2,7 @@
 ## 👋 Hi, I'm Charity Silah!
 
 🚀 Electrical & Electronics Engineering Student | Developer |  Space Enthusiast 
+
 🔭 Exploring code, stars, and everything in between!
 
 ---
