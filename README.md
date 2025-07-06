@@ -1,5 +1,5 @@
 
-## 👋 Hi, I'm Charity Silah!
+## 👋 Hi, I'm Silah!
 
 🚀 Electrical & Electronics Engineering Student | Developer |  Space Enthusiast 
 
