@@ -1,18 +1,10 @@
-# 👋 Hi, I'm Charity Silah!
+
+## 👋 Hi, I'm Charity Silah!
 
 🚀 Electrical & Electronics Engineering Student | Developer |  Space Lover  
 🔭 Exploring code, stars, and everything in between!
 
 ---
-
-### 🛠 Tech Stack
-```html
-Languages: Python | HTML | CSS | JavaScript  
-Frameworks: Django | Bootstrap  
-Tools: Git | VS Code | Figma | Canva  
-                  
-  
-  ---
 
 ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Charity2024&theme=dark&background=000000)](https://git.io/streak-stats)
