@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @Charity2024
-- 👀  coding sponge                                                                                                                                                                                  
-  
-- 🌱 I’m currently learning ...Python and Kotlin
-- 📫 How to reach me ...silahcharity@gmail.com
-- ⚡ Fun fact: ...Did you know that the first computer bug was a moth?  This incident is often credited as the origin of the term "debugging" in computing.                                        
+# 👋 Hi, I'm Charity Silah!
+
+🚀 Electrical & Electronics Engineering Student | Developer |  Space Lover  
+🔭 Exploring code, stars, and everything in between!
+
+---
+
+### 🛠 Tech Stack
+```html
+Languages: Python | HTML | CSS | JavaScript  
+Frameworks: Django | Bootstrap  
+Tools: Git | VS Code | Figma | Canva  
+                  
   
   ---
 
