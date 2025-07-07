@@ -5,7 +5,6 @@
 
 🔭 Exploring code, stars, and everything in between!
 
-https://komarev.com/ghpvc/?username=Charity2024
 ---
 
 ### :fire: My Stats :
