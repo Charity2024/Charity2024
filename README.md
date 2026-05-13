@@ -7,25 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00d4ff&center=true&vCenter=true&width=500&lines=Engineering+the+Future.;Advancing+African+Space+Innovation.;Inspiring+the+next+generation+of+STEM+explorers.)](https://git.io/typing-svg)
 
 ---
-
-
-
-
-## 📡 TECHNICAL INTERFACE (TECH STACK)
-
-<div align="center">
-
-### 💻 Software & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</div>
-
----
-
 ## 📊 MISSION TELEMETRY
 
 <div align="center">
@@ -34,20 +15,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Charity2024&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## VISION
-My trajectory is set toward creating a sustainable ecosystem where African students do not just observe the universe—they engineer the tools to explore it. I aim to merge different disciplines to create intelligent, autonomous systems that solve earthly challenges through space-based insights.
-
----
-
-## 📬 COMMAND CENTER (CONNECT)
-*Communication relay is open for any collaborations!*
-
-🔗 **[Portfolio / Mission Log](https://charity-silah.vercel.app/)** | 📧 **[Email](mailto:silahcharity@gmail.com)** | 💼 **[LinkedIn](https://linkedin.com/in/charity-silah-3676a82aa)**
-
----
 *“Per Aspera Ad Astra”*
 *Last Calibration: March 2026*
 
