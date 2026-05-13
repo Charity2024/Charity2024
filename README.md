@@ -1,4 +1,3 @@
-<div align="center">
 
 # 🛰️ MISSION CONTROL: NYOTA SPACEWORKS
 #### CHARITY SILAH | LOCATION: KENYA, EARTH
@@ -9,30 +8,12 @@
 
 ---
 
-## 👨‍🚀 ASTRONAUT PROFILE
-**Status:** Active | **Rank:** Builder & Engineer | **Base:** Murang'a, Kenya
 
-> *"The stars are not just lights in the sky; they are the frontier of our potential. I bridge the gap between theoretical electronics and the vast possibilities of space science, designing systems that empower the next generation of African innovators."*
 
----
-
-## 🚀 CURRENT MISSIONS (ACTIVE PROJECTS)
-
-| Mission | Objective | Status |
-| :--- | :--- | :--- |
-| **Nyota Spaceworks** | Advancing Africa’s presence in space innovation. |  Operational |
-| **Nyota Explorers** | Interactive space science for children via stories & games. |  In-Development |
-| **Space Academy** | Teaching robotics, astronomy, & engineering concepts. |  Active |
-
----
 
 ## 📡 TECHNICAL INTERFACE (TECH STACK)
 
 <div align="center">
-
-### ⚡ Engineering & Firmware
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Electronics](https://img.shields.io/badge/Prototyping-FF4500?style=for-the-badge&logo=tinkercad&logoColor=white)
 
 ### 💻 Software & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
