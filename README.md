@@ -2,9 +2,7 @@
 # 🛰️ MISSION CONTROL: NYOTA SPACEWORKS
 #### CHARITY SILAH | LOCATION: KENYA, EARTH
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=CHARITY%20SILAH&fontSize=60&fontColor=ffffff&desc=Electrical%20%26%20Electronics%20Engineering%20Student%20|%20Founder%20@%20Nyota%20Spaceworks&descAlignY=70)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00d4ff&center=true&vCenter=true&width=500&lines=Engineering+the+Future.;Advancing+African+Space+Innovation.;Inspiring+the+next+generation+of+STEM+explorers.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00d4ff&center=true&vCenter=true&width=500&lines=Engineering+the+Future.;Advancing+African+Space+Innovation.;Inspiring+the+next+generation+of+STEM+explorers.)](https://git.io/typing-svg)
 
 ---
 ## 📊 MISSION TELEMETRY
